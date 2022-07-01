@@ -1,0 +1,16 @@
+.bookCard{
+  /* width: ; */
+    /* border: 5px solid blue; */
+  box-shadow: 5px 5px 10px 0 blue;
+  padding: 2em;
+  }
+ .searchbar{
+  display: flex;
+  justify-content: center;
+ }
+ .searchbutton{
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+ } 
