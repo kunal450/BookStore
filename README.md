@@ -22,9 +22,10 @@ account for reading .
 ## Images of BookStore: 
 
 ![](BookStore%20Images/p1.png)
-![](BookStore%20Images/p02.png)
 ![](BookStore%20Images/p2.png)
 ![](BookStore%20Images/p3.png)
 ![](BookStore%20Images/p4.png)
 ![](BookStore%20Images/p5.png)
 ![](BookStore%20Images/p6.png)
+![](BookStore%20Images/p7.png)
+![](BookStore%20Images/p8.png)
