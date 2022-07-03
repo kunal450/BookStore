@@ -52,7 +52,7 @@ function Header() {
     <>
     <AppBar position='static' sx={{background:"#063970"}}>
       <Toolbar>
-        <Typography variant='h6'> <b> DAILY LOG</b></Typography>
+        <Typography variant='h6'> <b>BOOK STORE</b></Typography>
        
        { isMatch?<DrawerComp/> :   <>  { localStorage.getItem("user-login")?<Tabs textColor="white" sx={{marginLeft:1}}>
           <Tab label="Home" onClick={()=>navigate("/")}></Tab>
